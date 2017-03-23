@@ -16,8 +16,8 @@ import java.util.Date;
 public class TestServlet extends HttpServlet{
 
 	//...
-	//
-	//
+	//tests
+
 
 	@Override
 	public void doGet(HttpServletRequest request,HttpServletResponse response) 
