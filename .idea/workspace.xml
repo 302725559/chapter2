@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="976f5b28-1008-40a9-aa42-aa03f7fbf9bf" name="Default" comment="" />
+    <list default="true" id="976f5b28-1008-40a9-aa42-aa03f7fbf9bf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/servlet/TestServlet.java" afterPath="$PROJECT_DIR$/src/main/java/servlet/TestServlet.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,6 +98,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -616,12 +619,12 @@
       <updated>1490600170451</updated>
       <workItem from="1490600172687" duration="7578000" />
       <workItem from="1490671248311" duration="801000" />
-      <workItem from="1490677579792" duration="955000" />
+      <workItem from="1490677579792" duration="1121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9334000" />
+    <option name="totallyTimeSpent" value="9500000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
