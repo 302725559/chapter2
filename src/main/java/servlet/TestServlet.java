@@ -15,11 +15,11 @@ import java.util.Date;
 @WebServlet("/test")
 public class TestServlet extends HttpServlet{
 
-<<<<<<< HEAD
+
 //zxczxcxmnbnm
-=======
+
 //1112222222
->>>>>>> 20aefcc1ee0b50d0db0ffed07b13df856ed198a8
+
 	@Override
 	public void doGet(HttpServletRequest request,HttpServletResponse response) 
 			throws ServletException, IOException{
