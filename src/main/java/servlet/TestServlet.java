@@ -15,7 +15,7 @@ import java.util.Date;
 @WebServlet("/test")
 public class TestServlet extends HttpServlet{
 
-//zxczxcx
+//zxczxcxmnbnm
 	@Override
 	public void doGet(HttpServletRequest request,HttpServletResponse response) 
 			throws ServletException, IOException{
