@@ -32,8 +32,8 @@
       <file leaf-file-name="TestServlet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/servlet/TestServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+            <state relative-caret-position="66">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -139,7 +139,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/project" />
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RunManager">
@@ -558,12 +558,12 @@
       <updated>1490600170451</updated>
       <workItem from="1490600172687" duration="7578000" />
       <workItem from="1490671172933" duration="56000" />
-      <workItem from="1490671465034" duration="231000" />
+      <workItem from="1490671465034" duration="1287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7865000" />
+    <option name="totallyTimeSpent" value="8921000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -696,8 +696,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/servlet/TestServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        <state relative-caret-position="66">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding />
         </state>
       </provider>
